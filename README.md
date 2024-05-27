@@ -6,7 +6,7 @@ An unofficial [Catppuccin](https://catppuccin.com/) theme for [ProductHUD](https
 
 
 # Installation
-1. Download the zip/clone the repo. Extract the folders into tf/custom/producthud/customizations/color_themes.
+1. Download the zip/clone the repo. Extract the directory into tf/custom/producthud/customizations/color_themes.
 2. Open up color_theme.res file in tf/custom/producthud/customizations/. Comment all lines using `//` and then paste the following
 
 ```
