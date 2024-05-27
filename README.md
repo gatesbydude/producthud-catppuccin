@@ -1,2 +1,2 @@
 # producthud-catppuccin
-An unofficial [https://catppuccin.com/](Catppuccin) theme for [https://github.com/Kruphixx/producthud](ProductHUD)
+An unofficial [Catppuccin)](https://catppuccin.com/) theme for [ProductHUD](https://github.com/Kruphixx/producthud)
